@@ -5,14 +5,14 @@
 
 ---
 
-## ✍️ Topics covered | Các chủ đề
+## ✍️ Topics Covered | Các chủ đề 
 
-- **Variables, Data Types** | **Biến, kiểu dữ liệu**  
-- **Operators** | **Toán tử**  
-- **Conditional Statements & Loops** | **Câu lệnh điều kiện & vòng lặp**  
-- **Functions** | **Hàm**  
-- **Object-Oriented Programming** | **Lập trình hướng đối tượng**  
-- **Practice Problems with Solutions** | **Bài tập kèm lời giải**
+- **Basics** — Nhập/xuất, biến, kiểu dữ liệu, toán tử
+- **Control Flow** — Điều kiện, vòng lặp
+- **Data Structures** — List, Tuple, Set, Dict, String
+- **Functions & OOP** — Hàm, đệ quy, lớp, kế thừa
+- **Files & Errors** — Đọc/ghi tệp, xử lý lỗi
+- **Practice** — Bài tập, tư duy logic, dự án nhỏ
 
 ---
 
@@ -29,7 +29,3 @@
 
 **_Happy learning_**, and **_keep the passion for coding alive! ❤️_**  
 **_Chúc bạn học tốt_** và **_luôn giữ đam mê với lập trình! ❤️_**
-
-
-
-
