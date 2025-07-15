@@ -20,8 +20,8 @@
 
 | Language | Colab | GitHub |
 |----------|-------|--------|
-| 🇺🇸 English    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PhungDinhQuangAnh/Python-Handbook/blob/main/python_handbook_en.ipynb) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?logo=github)](./python_handbook_en.ipynb) |
-| 🇻🇳 Vietnamese | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PhungDinhQuangAnh/Python-Handbook/blob/main/python_handbook_vi.ipynb) | [![View on GitHub](https://img.shields.io/badge/Xem%20trên-GitHub-blue?logo=github)](./python_handbook_vi.ipynb) |
+| 🇺🇸 English    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PhungDinhQuangAnh/Python_Handbook/blob/main/python_handbook_en.ipynb) | [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?logo=github)](./python_handbook_en.ipynb) |
+| 🇻🇳 Vietnamese | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PhungDinhQuangAnh/Python_Handbook/blob/main/python_handbook_vi.ipynb) | [![View on GitHub](https://img.shields.io/badge/Xem%20trên-GitHub-blue?logo=github)](./python_handbook_vi.ipynb) |
 
 ---
 
