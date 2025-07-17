@@ -42,7 +42,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │   ├── <b>Supervised Learning</b>  ──► Dữ liệu có nhãn (Labeled data)
 │   │   ├── <b>Thuật toán truyền thống (Traditional algorithms)</b>:
 │   │   │   ├── Logistic Regression, Decision Tree, Random Forest, Gradient Boosting,
-│   │   │   └──  Linear Regression, Ridge Regression / Lasso Regression, KNN Regression ...
+│   │   │   └── Linear Regression, Ridge Regression / Lasso Regression, KNN Regression ...
 │   │   │
 │   │   └── <b>Deep Learning (DL)</b>
 │   │       ├── <i>CNN</i>  ──► Xử lý ảnh, video (Image, video processing)
@@ -76,7 +76,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │           └── <i>AlphaGo, AlphaZero</i>  ──► Ứng dụng thực tế (Real-world applications)
 │       ........
 │
-└── OTHER AI FIELDS  ──► không nhất thiết dùng ML (not necessarily using ML)
+└── <b>OTHER AI FIELDS</b>  <-->  <b>REAL-WORL APPLICATIONS</b>
     ├── Expert Systems  ──► Hệ thống quy tắc (Rule-based systems) (if–then logic)
     ├── Reasoning & Planning  ──► Suy luận logic, tìm đường, lập kế hoạch (Logical inference, pathfinding, planning)
     ├── Robotics  ──► Cảm biến, điều khiển, tương tác môi trường (Sensors, control, environment interaction)
