@@ -46,7 +46,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │   │   │
 │   │   └── <b>Deep Learning (DL)</b>
 │   │       ├── <i>CNN</i>  ──► Xử lý ảnh, video (Image, video processing)
-│   │       ├── <i>RNN / </i>  ──► Dữ liệu tuần tự (Sequential data)
+│   │       ├── <i>RNN</i>  ──► Dữ liệu tuần tự (Sequential data)
 │   │       │   ├── LSTM 
 │   │       │   └── GRU
 │   │       ├── <i>Transformer</i>  ──► Xử lý đa dạng dữ liệu (Processing diverse types of data)
