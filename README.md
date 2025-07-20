@@ -45,6 +45,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │   │   │   └── Linear Regression, Ridge Regression / Lasso Regression, KNN Regression ...
 │   │   │
 │   │   └── <b>Deep Learning (DL)</b>
+│   │       ├── <i>MLP</i>
 │   │       ├── <i>CNN</i>  ──► Xử lý ảnh, video (Image, video processing)
 │   │       ├── <i>RNN</i>  ──► Dữ liệu tuần tự (Sequential data)
 │   │       │   ├── LSTM 
@@ -52,8 +53,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │   │       ├── <i>Transformer</i>  ──► Xử lý đa dạng dữ liệu (Processing diverse types of data)
 │   │       │   ├── BERT  
 │   │       │   └── GPT  
-│   │       ├── <i>GNN</i>  ──► Xử lý dữ liệu đồ thị (Graph data processing)
-│   │       └── <i>Diffusion Models</i>  ──► Sinh dữ liệu chất lượng cao (High-quality data generation) (text-to-image, v.v.)
+│   │       └── <i>GNN</i>  ──► Xử lý dữ liệu đồ thị (Graph data processing)
 │   │           ...
 │   │ 
 │   ├── <b>Unsupervised Learning</b>  ──► Dữ liệu không nhãn (Unlabeled data)
@@ -63,8 +63,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │   │   │
 │   │   └── <b>Deep Learning (DL)</b>
 │   │       ├── <i>Autoencoder</i>  ──► Nén, tái tạo dữ liệu (Data compression & reconstruction)
-│   │       ├── <i>GAN</i>  ──► Sinh dữ liệu giả (Synthetic data generation) (image, voice, ...)
-│   │       └── <i>Diffusion Models</i> 
+│   │       └── <i>GAN</i>  ──► Sinh dữ liệu giả (Synthetic data generation) (image, voice, ...)
 │   │           ...
 │   │
 │   └── <b>Reinforcement Learning</b>  ──► Học qua tương tác (Learning through interaction)
