@@ -75,7 +75,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 │           └── <i>AlphaGo, AlphaZero</i>  ──► Ứng dụng thực tế (Real-world applications)
 │       ........
 │
-└── <b>OTHER AI FIELDS</b>  <-->  <b>REAL-WORL APPLICATIONS</b>
+└── <b>OTHER AI FIELDS</b> & <b>REAL-WORLD APPLICATIONS</b>
     ├── Expert Systems  ──► Hệ thống quy tắc (Rule-based systems) (if–then logic)
     ├── Reasoning & Planning  ──► Suy luận logic, tìm đường, lập kế hoạch (Logical inference, pathfinding, planning)
     ├── Robotics  ──► Cảm biến, điều khiển, tương tác môi trường (Sensors, control, environment interaction)
