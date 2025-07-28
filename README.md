@@ -85,7 +85,8 @@ ARTIFICIAL INTELLIGENCE (AI)
 │    │       ├── <i>DQN</i> ──► Kết hợp DL + Q-Learning (Combines DL + Q-Learning)
 │    │       ├── <i>PPO, A3C</i> ──► Tối ưu chính sách (Policy optimization)
 │    │       └── <i>AlphaGo, AlphaZero</i> ──► Ứng dụng thực tế (Real-world applications)
-│    │
+│    │           ...
+│    │     
 │    └── <b>Self-Supervised Learning</b> ──► Tự học từ dữ liệu mà không cần nhãn thủ công (Learning by generating labels from raw data)
 │        └── Mô hình sử dụng (Used in):
 │            ├── <i>BERT</i> ──► Dự đoán từ bị che (Masked word prediction)
