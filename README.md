@@ -25,13 +25,6 @@
 
 ---
 
-## 💬 Final Words | Lời kết
-
-**_Happy learning_**, and **_keep the passion for coding alive! ❤️_**  
-**_Chúc bạn học tốt_** và **_luôn giữ đam mê với lập trình! ❤️_**
-
----
-
 ## 📚 Beyond Python: AI Landscape | Vượt khỏi Python: Toàn cảnh AI
 
 <pre>
@@ -102,3 +95,10 @@ ARTIFICIAL INTELLIGENCE (AI)
      └── Natural Language Processing (NLP) ──► Xử lý ngôn ngữ tự nhiên 
          ...
 </pre>
+
+---
+
+## 💬 Final Words | Lời kết
+
+**_Happy learning_**, and **_keep the passion for coding alive! ❤️_**  
+**_Chúc bạn học tốt_** và **_luôn giữ đam mê với lập trình! ❤️_**
