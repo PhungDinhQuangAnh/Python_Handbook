@@ -98,7 +98,7 @@ ARTIFICIAL INTELLIGENCE (AI)
 
 ---
 
-## 💬 Final Words | Lời kết
+## Final Words | Lời kết
 
 **_Happy learning_**, and **_keep the passion for coding alive! ❤️_**  
 **_Chúc bạn học tốt_** và **_luôn giữ đam mê với lập trình! ❤️_**
