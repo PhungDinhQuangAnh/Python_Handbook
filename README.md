@@ -1,11 +1,11 @@
-# 🐍 Python Handbook | Sổ tay Python
+# Python Handbook | Sổ tay Python
 
 - This is a **personal Python handbook** created during my **self-study journey**. It covers **core Python concepts** and includes **practice problems with solutions**.  
 - Đây là **sổ tay Python cá nhân** được tôi tổng hợp trong quá trình **tự học**. Bao gồm các **kiến thức cốt lõi** và **bài tập có lời giải**.
 
 ---
 
-## ✍️ Topics Covered | Các chủ đề 
+## Topics Covered | Các chủ đề 
 
 - **Basics** — Nhập/xuất, biến, kiểu dữ liệu, toán tử
 - **Control Flow** — Điều kiện, vòng lặp
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔗 View Handbook Online | Xem sổ tay trực tuyến
+## View Handbook Online | Xem sổ tay trực tuyến
 
 | Language | Colab | GitHub |
 |----------|-------|--------|
@@ -25,7 +25,7 @@
 
 ---
 
-## 📚 Beyond Python: AI Landscape | Vượt khỏi Python: Toàn cảnh AI
+## Bonus: AI Landscape | Toàn cảnh AI
 
 <pre>
 ARTIFICIAL INTELLIGENCE (AI)
