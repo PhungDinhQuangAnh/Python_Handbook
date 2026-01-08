@@ -1,4 +1,4 @@
-# Python Handbook | Sổ tay Python
+<h1 align="center">Python Handbook | Sổ tay Python</h1>
 
 - This is a **personal Python handbook** created during my **self-study journey**. It covers **core Python concepts** and includes **practice problems with solutions**.  
 - Đây là **sổ tay Python cá nhân** được tôi tổng hợp trong quá trình **tự học**. Bao gồm các **kiến thức cốt lõi** và **bài tập có lời giải**.
