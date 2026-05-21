@@ -79,12 +79,16 @@ ARTIFICIAL INTELLIGENCE (AI)
 │    │       ├── <i>PPO, A3C</i> ──► Tối ưu chính sách (Policy optimization)
 │    │       └── <i>AlphaGo, AlphaZero</i> ──► Ứng dụng thực tế (Real-world applications)
 │    │           ...
-│    │     
-│    └── <b>Self-Supervised Learning</b> ──► Tự học từ dữ liệu mà không cần nhãn thủ công (Learning by generating labels from raw data)
-│        └── Mô hình sử dụng (Used in):
-│            ├── <i>BERT</i> ──► Dự đoán từ bị che (Masked word prediction)
-│            ├── <i>SimCLR, BYOL</i> ──► Tự học đặc trưng hình ảnh (Visual representation learning)
-│            └── <i>GPT</i> (phần tiếp theo từ chính dữ liệu) (Next-token prediction)
+│    │
+│    └── <b>Semi-Supervised Learning</b> ──► Kết hợp lượng nhỏ dữ liệu có nhãn + lượng lớn dữ liệu không nhãn (Small labeled + Large unlabeled data)
+│        ├── Thuật toán/Kỹ thuật phổ biến (Common algorithms/techniques):
+│        │   ├── <i>Pseudo-Labeling</i> ──► Tự gán nhãn giả cho dữ liệu thô (Self-labeling unlabeled data)
+│        │   ├── <i>abel Propagation</i> ──► Lan truyền nhãn dựa trên cấu trúc đồ thị (Graph-based label spread)
+│        │   └── <i>Consistency Regularization</i> ──► Ràng buộc tính nhất quán khi biến đổi dữ liệu (Data perturbation invariance)
+│        │
+│        └── Các mô hình tiêu biểu (Notable architectures):
+│            ├── <i>MixMatch / FixMatch</i> ──► Tối ưu cho Computer Vision bán giám sát
+│            └── <i>Transductive SVM (TSVM)</i> ──► SVM cho không gian bán giám sát
 │        ........
 │
 └── <b>AI DOMAINS & APPLICATIONS</b> ──► Các lĩnh vực kỹ thuật & ứng dụng thực tế
